@@ -1,0 +1,11 @@
+dependency
+    prop-types
+    redux
+    react-redux
+    redux-undo
+
+    cmd:
+        npm install --save prop-types
+        npm install --save redux
+        npm install --save react-redux
+        npm install --save redux-undo
